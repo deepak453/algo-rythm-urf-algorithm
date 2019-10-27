@@ -1,4 +1,3 @@
-
 // Java program to implement interpolation search 
 
 class Test 
